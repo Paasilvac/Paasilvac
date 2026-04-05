@@ -1,88 +1,51 @@
-# 👩🏻‍💻 Paloma Carvalho
+# 👩‍💻 Paloma Carvalho
 
-**`Desenvolvedora FullStack`**
+**Desenvolvedora Fullstack em formação**
 
-Me chamo Paloma Carvalho, tenho 28 anos e sou natural de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas. Sou apaixonada por tecnologia e estou em busca de novos projetos.
-<p align="left">
-    </a> 
-    <a href="https://github.com/Paasilvac?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Paasilvac?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Paasilvac?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Paasilvac?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+Sou apaixonada por tecnologia e estou em transição para a área de desenvolvimento.  
+Atualmente curso **Análise e Desenvolvimento de Sistemas** e busco oportunidades para crescer na área.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 🚀 Sobre mim
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+- 💻 Focada em desenvolvimento web
+- 📚 Estudando HTML, CSS, JavaScript e Python
+- 🎯 Em busca da primeira oportunidade na área tech
+- 🧠 Aprendizado rápido e muita vontade de evoluir
 
-<br/>
-<br/>
+---
 
-### 📊 Estatísticas
+## 🛠️ Tecnologias
 
- <p>
-  <img 
-    align="left" 
-    alt="Estatísticas do GitHub" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=Paasilvac&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+![HTML](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
 
-  <img 
-    align="left" 
-    alt="Linguagens mais usadas" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paasilvac&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+---
+
+## 📌 Projetos em destaque
+
+🔹 Em breve...
+
+---
+
+## 📊 Estatísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Paasilvac&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paasilvac&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Contato
+
+- 💼 LinkedIn: www.linkedin.com/in/paasilvac
+- 📧 Email: paasilvac@gmail.com
+
+---
+
+✨ *Sempre em evolução na área de tecnologia*
 </p>

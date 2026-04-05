@@ -39,5 +39,5 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas** e busco oportunidade
 
 ---
 
-✨ *Sempre em evolução na área de tecnologia*
+ *Sempre em evolução. ✨*
 </p>

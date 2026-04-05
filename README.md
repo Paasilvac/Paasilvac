@@ -32,14 +32,6 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas** e busco oportunidade
 
 ---
 
-## 📊 Estatísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Paasilvac&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paasilvac&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Contato
 
 - 💼 LinkedIn: www.linkedin.com/in/paasilvac

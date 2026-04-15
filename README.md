@@ -1,10 +1,10 @@
-# 👩‍💻 Paloma Carvalho
+# 👩‍💻 Paloma Carvalho - Desenvolvedora Front-end
 
-Desenvolvedora Front-end
 Criação de Sites e Landing pages
 
-** Sou apaixonada por tecnologia com foco em desenvolvimento Frontend.
-Tenho interesse em criar sites modernos, funcionais e voltados para resultado, principalmente landing pages para pequenos negócios. **
+
+Sou apaixonada por tecnologia com foco em desenvolvimento Frontend.
+Tenho interesse em criar sites modernos, funcionais e voltados para resultado, principalmente landing pages para pequenos negócios. 
 ---
 
 ## 🛠️ Tecnologias

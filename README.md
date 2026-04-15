@@ -38,31 +38,16 @@ Confira meus projetos fixados neste repositório para ver exemplos do meu trabal
 ✨ **Sites Profissionais** - Portfólios, blogs e sites corporativos modernos  
 🎯 **Landing Pages** - Páginas otimizadas para conversão e leads  
 📱 **Design Responsivo** - Experiências perfeitas em todos os dispositivos  
-⚡ **Performance** - Carregamento rápido e otimização SEO  
 
 ---
 
 ## 🌐 Conecte-se Comigo
 
-- 💼 [LinkedIn](https://linkedin.com/in/seu-perfil) *(adicione seu link)*
-- 🌐 [Portfólio Pessoal](https://seu-portfolio.com) *(se tiver)*
-- 📧 Email: seu-email@example.com *(adicione seu email)*
+- 💼 [LinkedIn](https://linkedin.com/in/seu-perfil)
+- 🌐 [Portfólio Pessoal](https://seu-portfolio.com)
+- 📧 Email: paasilvac
 - 🐙 [@Paasilvac](https://github.com/Paasilvac)
 
 ---
 
-## 📊 Estatísticas GitHub
-
-![Paasilvac's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Paasilvac&show_icons=true&theme=dracula)
-
----
-
-## 💬 Fique à Vontade!
-
-- 👀 Dúvidas sobre meus projetos? Abra uma issue!
-- 🤝 Interessado em colaborar? Vamos conversar!
-- ⭐ Se gostou de algo, não esqueça de deixar uma estrela!
-
----
-
-**Feliz codificação! 🚀**
+**🚀**

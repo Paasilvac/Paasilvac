@@ -1,5 +1,5 @@
-# Projeto Exemplo
+Paloma Carvalho
 
-## Criação de Sites e Landing Pages
+Desenvolvedora Front-end
+Criação de Sites e Landing pages
 
-Este repositório é um exemplo de como utilizar GitHub para gerenciar um projeto.

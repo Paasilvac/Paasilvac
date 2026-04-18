@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou Paloma Carvalho
+# 👋 Olá! Me chamo Paloma Carvalho
 
 ## 🚀 Desenvolvedora Front-end | Criadora de Experiências Web
 

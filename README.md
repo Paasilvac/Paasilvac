@@ -8,21 +8,17 @@ Sou uma desenvolvedora front-end apaixonada por criar interfaces modernas, respo
 
 ## 💼 Especialidades
 
-- ⚡ **Front-end Development** - HTML5, CSS3, JavaScript/TypeScript
+- ⚡ **Front-end Development** - HTML5, CSS3, JavaScript
 - 🎨 **Design Responsivo** - Mobile-first, layouts modernos e acessíveis
 - 🌐 **Desenvolvimento Web** - Sites corporativos e landing pages otimizadas
 - 📱 **Experiência do Usuário** - UI/UX focada em conversão e engajamento
-- 🔧 **Ferramentas & Frameworks** - React, Vue, ou outras tecnologias front-end
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
 
 ```
-💻 Linguagens:      HTML5 | CSS3 | JavaScript | TypeScript
-🎭 Frameworks:      React | Vue | Tailwind CSS
-🎨 Design:          Figma | Adobe XD
-⚙️ Ferramentas:     Git | VSCode | Webpack | npm/yarn
+💻 Linguagens:      HTML5 | CSS3 | JavaScript 
 ```
 
 ---
@@ -43,10 +39,7 @@ Confira meus projetos fixados neste repositório para ver exemplos do meu trabal
 
 ## 🌐 Conecte-se Comigo
 
-- 💼 [LinkedIn](https://linkedin.com/in/seu-perfil)
-- 🌐 [Portfólio Pessoal](https://seu-portfolio.com)
-- 📧 Email: paasilvac
-- 🐙 [@Paasilvac](https://github.com/Paasilvac)
+- 📧 Email: paasilvac@gmail.com
 
 ---
 

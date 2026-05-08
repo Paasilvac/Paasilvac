@@ -1,39 +1,26 @@
-# 👋 Olá! Me chamo Paloma Carvalho
+# Olá, eu sou a Paloma 👋
 
-## 🚀 Desenvolvedora Front-end | Criadora de Experiências Web
+Desenvolvedora Front-End focada em projetos web, landing pages e interfaces modernas.
 
-Sou uma desenvolvedora front-end apaixonada por criar interfaces modernas, responsivas e intuitivas. Especializada na construção de **sites profissionais** e **landing pages** de alta conversão que combinam design elegante com funcionalidade impecável.
+🎓 Formação:
+- Administração
+- MBA em Finanças, Controladoria e Auditoria
+- ADS (Análise e Desenvolvimento de Sistemas)
 
----
+💻 Tecnologias:
+- HTML
+- CSS
+- JavaScript
+- React
+- Git/GitHub
 
-## 💼 Especialidades
+📌 Atualmente:
+- Construindo projetos web
+- Desenvolvendo portfólio
+- Estudando desenvolvimento e dados
 
-- ⚡ **Front-end Development** - HTML5, CSS3, JavaScript
-- 🎨 **Design Responsivo** - Mobile-first, layouts modernos e acessíveis
-- 🌐 **Desenvolvimento Web** - Sites corporativos e landing pages otimizadas
-- 📱 **Experiência do Usuário** - UI/UX focada em conversão e engajamento
-
----
-
-## 🛠️ Tecnologias & Ferramentas
-
-```
-💻 Linguagens:      HTML5 | CSS3 | JavaScript 
-```
-
----
-
-## 📌 Projetos em Destaque
-
-Confira meus projetos fixados neste repositório para ver exemplos do meu trabalho e tecnologias utilizadas.
-
----
-
-## 🎯 O Que Ofereço
-
-✨ **Sites Profissionais** - Portfólios, blogs e sites corporativos modernos  
-🎯 **Landing Pages** - Páginas otimizadas para conversão e leads  
-📱 **Design Responsivo** - Experiências perfeitas em todos os dispositivos  
+🌐 Portfólio:
+https://devpaasilvac.com.br
 
 ---
 
